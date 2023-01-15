@@ -6,18 +6,6 @@
   </a>
 </p>
 
-> CLI that generates beautiful README.md files.<br /> `readme-md-generator` will suggest you default answers by reading your `package.json` and `git` configuration.
-
-## ✨ Demo
-
-`readme-md-generator` is able to read your environment (package.json, git config...) to suggest you default answers during the `README.md` creation process:
-
-<p align="center">
-  <img width="700" align="center" src="https://user-images.githubusercontent.com/9840435/60266022-72a82400-98e7-11e9-9958-f9004c2f97e1.gif" alt="demo"/>
-</p>
-
-Generated `README.md`:
-
 <p align="center">
   <img width="700" src="https://user-images.githubusercontent.com/9840435/60266090-9cf9e180-98e7-11e9-9cac-3afeec349bbc.jpg" alt="cli output"/>
 </p>
@@ -29,10 +17,6 @@ npm install
 ```
 
 ## Usage
-
-```sh
-npm run start
-```
 
 In the project directory, you can run:
 
@@ -79,5 +63,3 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 Give a ⭐️ if this project helped you!
 
 ---
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
